@@ -1,0 +1,2 @@
+# arkanoPi_6
+El objetivo del proyecto es aprender sobre el desarrollo de un sistema que utilice un microcontrolador. En nuestro caso, dicho microcontrolador será el integrado en una Raspberry Pi. Así, se consigue aprender a utilizar un sistema moderno, actual y de gran utilidad. Estos objetivos se consiguen mediante el desarrollo de un proyecto concreto, que en nuestro caso será un videojuego llamado ArkanoPi, basado en el juego Breakout de Atari.
